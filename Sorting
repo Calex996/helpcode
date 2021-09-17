@@ -4,7 +4,6 @@ import java.util.Arrays;
 // Main class
 public class Sorting {
  
-    // Main driver method
     public static void main(String[] args)
     {
         // Custom input array
